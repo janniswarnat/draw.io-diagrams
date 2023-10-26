@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T07:09:40.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lb_OO2pJy35Ah-kzyGvx" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T07:16:36.106Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1pG10kH2-uhlk8NhgQF5" version="22.0.8" type="github">
   <diagram name="Page-1" id="GcOsXRJ8AvoDFU7_Izoy">
     <mxGraphModel dx="3781" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sRP4vnEstUWdpdvkVeDb-2" value="connector1-drk.fit.fraunhofer.de&lt;br style=&quot;font-size: 20px;&quot;&gt;Private key for X.509 certificate&lt;br style=&quot;font-size: 20px;&quot;&gt;Policies&lt;br style=&quot;font-size: 20px;&quot;&gt;Assets&lt;br style=&quot;font-size: 20px;&quot;&gt;Contract Definitions&lt;br style=&quot;font-size: 20px;&quot;&gt;Contracts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="1080" width="300" height="160" as="geometry" />
+          <mxGeometry x="-190" y="1070" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sRP4vnEstUWdpdvkVeDb-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" parent="1" source="sRP4vnEstUWdpdvkVeDb-5" target="sRP4vnEstUWdpdvkVeDb-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sRP4vnEstUWdpdvkVeDb-100" value="connector2-drk.fit.fraunhofer.de&lt;br style=&quot;font-size: 20px;&quot;&gt;Private key for X.509 certificate&lt;br style=&quot;font-size: 20px;&quot;&gt;Policies&lt;br style=&quot;font-size: 20px;&quot;&gt;Assets&lt;br style=&quot;font-size: 20px;&quot;&gt;Contract Definitions&lt;br style=&quot;font-size: 20px;&quot;&gt;Contracts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1060" width="300" height="160" as="geometry" />
+          <mxGeometry x="690" y="1070" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sRP4vnEstUWdpdvkVeDb-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="sRP4vnEstUWdpdvkVeDb-91" target="sRP4vnEstUWdpdvkVeDb-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -222,6 +222,23 @@
         </mxCell>
         <mxCell id="_Jc5pRLIT6cwghWnT4pu-2" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: arial, sans-serif; font-size: 18px;&quot;&gt;Identity and Access management (Keycloak)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: arial, sans-serif; font-size: 18px;&quot;&gt;iam-drk.fit.fraunhofer.de&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: arial, sans-serif; font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="460" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Jc5pRLIT6cwghWnT4pu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sRP4vnEstUWdpdvkVeDb-68" target="_Jc5pRLIT6cwghWnT4pu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="1066" />
+              <mxPoint x="-200" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Jc5pRLIT6cwghWnT4pu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sRP4vnEstUWdpdvkVeDb-85" target="_Jc5pRLIT6cwghWnT4pu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="1066" />
+              <mxPoint x="1010" y="180" />
+              <mxPoint x="-2" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
