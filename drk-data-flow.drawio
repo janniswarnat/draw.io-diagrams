@@ -123,6 +123,9 @@
             <mxPoint x="520" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GAy6znVA1MGjkvsBSbRd-39" target="GAy6znVA1MGjkvsBSbRd-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GAy6znVA1MGjkvsBSbRd-39" value="EDC #2" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="480" y="800" width="80" height="80" as="geometry" />
         </mxCell>
@@ -152,6 +155,33 @@
         </mxCell>
         <mxCell id="GAy6znVA1MGjkvsBSbRd-62" value="nginx" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GAy6znVA1MGjkvsBSbRd-67" target="GAy6znVA1MGjkvsBSbRd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-65" value="Data to be shared" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="GAy6znVA1MGjkvsBSbRd-70">
+          <mxGeometry x="160" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="GAy6znVA1MGjkvsBSbRd-70" source="GAy6znVA1MGjkvsBSbRd-67" target="GAy6znVA1MGjkvsBSbRd-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-67" value="REST API" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="GAy6znVA1MGjkvsBSbRd-70">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="960" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-72" value="Data to be shared" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="GAy6znVA1MGjkvsBSbRd-71">
+          <mxGeometry x="160" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="GAy6znVA1MGjkvsBSbRd-71" source="GAy6znVA1MGjkvsBSbRd-74" target="GAy6znVA1MGjkvsBSbRd-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAy6znVA1MGjkvsBSbRd-74" value="REST API" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="GAy6znVA1MGjkvsBSbRd-71">
+          <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
